@@ -35,8 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='V![SimpleTweetPT2Walkthrough](https://user-images.githubusercontent.com/69805447/133931480-f80a680b-0b00-48ae-92ee-626b55053abe.gif)
-ideo Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![SimpleTweetPT2Walkthrough](https://user-images.githubusercontent.com/69805447/133931508-414c3dba-e80c-4bb7-a1f5-9a04eb00ca61.gif)
+ title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
